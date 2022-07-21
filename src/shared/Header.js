@@ -10,7 +10,6 @@ const Header = () => {
     return (
         <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
-                {/* <Navbar.Brand href="#" title="gambling jackpot">G.J.</Navbar.Brand> */}
                 <OverlayTrigger
                     overlay={
                         <Tooltip id={"tooltip-bottom"}>
