@@ -7,9 +7,10 @@ const Footer = () => {
                 href="http://gambling-jackpot.vercel.app/"
                 className='py-0 my-0'
                 target={'_blank'}
+                rel="noreferrer"
             >gam-jack</a></p>
         </section>
     );
 }
 
-export default Footer;  
+export default Footer;
