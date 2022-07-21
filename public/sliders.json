@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "title": "Betting limit",
+        "detail": "A bet, also called a wager, is the amount you stake on a round of blackjack or roulette. It will also be the amount you spend on the spin of a slot machine.",
+        "thumb": "./assets/slides/slide-1.jpg"
+    },
+    {
+        "_id": 2,
+        "title": "Card sharp",
+        "detail": "A player who is considered skilled at card games is called a card sharp. While you will be happy playing alongside a card sharp at blackjack, since he is only taking money from the dealer.",
+        "thumb": "./assets/slides/slide-2.jpg"
+    },
+    {
+        "_id": 3,
+        "title": "Card washing",
+        "detail": "Card washing does not involve taking a cloth and soapy water and scrubbing the cards. Instead, it is when the dealer spreads the cards face down and mixes them up before shuffling.",
+        "thumb": "./assets/slides/slide-3.jpg"
+    },
+    {
+        "_id": 4,
+        "title": "Double or Nothing",
+        "detail": "A type of bet that is even money, so that if you win, you double your money, but if you lose, you get nothing. Examples will be red or black, or odd or even bets in roulette.",
+        "thumb": "./assets/slides/slide-4.jpg"
+    },
+    {
+        "_id": 5,
+        "title": "House Edge",
+        "detail": "The casino is a business called the house. You might have heard the term, \"The house always wins\" Sadly, in the long run, that is true.",
+        "thumb": "./assets/slides/slide-5.jpg"
+    }
+]
