@@ -1,22 +1,30 @@
 [
     {
+        "_id": 1,
         "title": "Even & Odd",
-        "thumb": "./game-thumbs/odd-Even.png",
+        "detail": "Also known as picture cards, face cards are the jacks, queens, and kings in a deck of cards. In most casino games, these are all valued at ten.",
+        "thumb": "./assets/games/dice.jpg",
         "ratings": 4
     },
     {
+        "_id": 2,
         "title": "Ludo example",
-        "thumb": "./game-thumbs/ludu.png",
+        "detail": "It’s common to see people watching games played in a casino. They are called railbirds, but they must be at a safe distance so as not to influence the game or players in any way.",
+        "thumb": "./assets/games/ludo.jpg",
         "ratings": 2
     },
     {
+        "_id": 3,
         "title": "Try your luck",
-        "thumb": "./game-thumbs/ludu-luck.png",
+        "detail": "A toke is another term for a tip. It’s considered polite to occasionally tip the dealer during a winning streak in blackjack, or after a good pot in poker.",
+        "thumb": "./assets/games/luck.jpg",
         "ratings": 5
     },
     {
+        "_id": 4,
         "title": "Head & Tail",
-        "thumb": "./game-thumbs/head-tail.png",
+        "detail": "Casino bosses love whales. These are a step up from high rollers, super-wealthy individuals who fly to a casino with vast amounts of cash they wish to gamble with.",
+        "thumb": "./assets/games/parity.jpg",
         "ratings": 3
     }
 ]
