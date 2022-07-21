@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Even & Odd",
+        "thumb": "./game-thumbs/odd-Even.png",
+        "ratings": 4
+    },
+    {
+        "title": "Ludo example",
+        "thumb": "./game-thumbs/ludu.png",
+        "ratings": 2
+    },
+    {
+        "title": "Try your luck",
+        "thumb": "./game-thumbs/ludu-luck.png",
+        "ratings": 5
+    },
+    {
+        "title": "Head & Tail",
+        "thumb": "./game-thumbs/head-tail.png",
+        "ratings": 3
+    }
+]
